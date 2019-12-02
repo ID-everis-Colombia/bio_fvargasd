@@ -1,3 +1,4 @@
 Me llamo freddy , soy ingeniero, trabajo en everis desde hace 5 años y vivo en Bogotá Colombia. 
 Soy muy viejo. Estoy casado.
 Me gusta leer.Tengo 2 hijos.
+Corregido error para hotfix de producción
